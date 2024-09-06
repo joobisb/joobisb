@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am an experienced backend engineer with over 8 years of experience in building scalable and robust backend systems. I have been working with various startups for a while now building monoliths/microservices (NodeJs, Scala, Go, et al) and the infra side of things (Kubernetes, AWS, Azure, Terraform and more).
+
+These days I'm exploring distributed systems, concurrency and so on and I mostly write in Go.
+
 <!--
 **joobisb/joobisb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
