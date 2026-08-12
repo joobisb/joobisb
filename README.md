@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an experienced backend engineer with over 10 years of experience in building scalable and robust backend systems. Currently working as a staff engineer building Enterprise Zero Trust Access product. Previously I have been working with various startups, building distributed systems (NodeJs, Scala, Go, et al) and handling the infra side of things (Kubernetes, AWS, Azure, Terraform and more).
+I am an experienced backend engineer with over 10 years of experience in building scalable and robust backend systems. Currently working as a Staff Engineer building Enterprise Zero Trust Access product. Previously I have been working with various startups, building distributed systems (NodeJs, Scala, Go, et al) and handling the infra side of things (Kubernetes, AWS, Azure, Terraform and more).
 
 These days, I'm exploring distributed systems, concurrency and so on. Recently, I've been delving into AI agentic tools and MCP servers, exploring the intersection of AI and distributed systems.
 
