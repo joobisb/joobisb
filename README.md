@@ -13,8 +13,10 @@ These days, I'm exploring distributed systems, concurrency and so on. Recently, 
 
 ## Projects
 
-| Date | Project | Description | Repository |
+| Date | Project | Description | Repository/Link |
 |------|---------|-------------|------------|
+| Oct 2026 | **llmdex**  | Exploring LLMs through my lens | [https://llmdex.dev/](https://llmdex.dev/)
+| Aug 2026 | **obiapp**  | Order tracker for small businesses | [https://obiapp.in/](https://obiapp.in/)
 | Jun 2025 | **mcp-installer**  | Simplifies installation of MCP servers | [github.com/joobisb/mcp-installer](https://github.com/joobisb/mcp-installer)
 | Jun 2025 | **venuex** | Gen AI venue finder | [github.com/joobisb/venuex](https://github.com/joobisb/venuex) |
 | Jun 2025 | **playz.one** | A vibe-coded experiment - [playz.one](https://playz.one) | [github.com/joobisb/playz-mcp-server](https://github.com/joobisb/playz-mcp-server) |
